@@ -11429,3 +11429,10 @@ video.bg-video {
     width: auto;
   }
 }
+
+@media(min-width: 900px) {
+  #terms {
+    position:absolute; 
+    left:1px
+  }
+}
